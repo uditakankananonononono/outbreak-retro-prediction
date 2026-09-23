@@ -6,7 +6,7 @@ man = []
 for root, dirs, files in os.walk("."):
     dirs[:] = [d for d in dirs if d not in skip_dirs]
     for fn in sorted(files):
-        p = os.path.join(root, fn).lstrip("./")
+        p = os.path.relpath(os.path.join(root, fn), ".")
         if p in ("MANIFEST.sha256",): continue
         h = hashlib.sha256(open(os.path.join(root, fn), "rb").read()).hexdigest()
         man.append(f"{h}  {p}")

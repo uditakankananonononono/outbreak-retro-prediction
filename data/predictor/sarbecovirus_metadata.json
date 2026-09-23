@@ -1,0 +1,2938 @@
+{
+ "1369125429": {
+  "accession": "MG772934.1",
+  "title": "Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2018/03/28",
+  "updatedate": "2022/05/16",
+  "slen": 29732
+ },
+ "1369125417": {
+  "accession": "MG772933.1",
+  "title": "Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2018/03/28",
+  "updatedate": "2022/05/16",
+  "slen": 29802
+ },
+ "304633675": {
+  "accession": "NC_014470.1",
+  "title": "Bat coronavirus BM48-31/BGR/2008, complete genome",
+  "organism": "Bat coronavirus BM48-31/BGR/2008",
+  "createdate": "2010/08/27",
+  "updatedate": "2021/12/31",
+  "slen": 29276
+ },
+ "1220516375": {
+  "accession": "KY938558.1",
+  "title": "Sarbecovirus sp. strain 16BO133, complete genome",
+  "organism": "Sarbecovirus sp.",
+  "createdate": "2017/07/31",
+  "updatedate": "2021/09/15",
+  "slen": 29075
+ },
+ "1179780471": {
+  "accession": "KY770860.1",
+  "title": "Sarbecovirus sp. isolate Jiyuan-84, complete genome",
+  "organism": "Sarbecovirus sp.",
+  "createdate": "2017/04/19",
+  "updatedate": "2021/09/15",
+  "slen": 29651
+ },
+ "1179780465": {
+  "accession": "KY770859.1",
+  "title": "Sarbecovirus sp. isolate Anlong-112, complete genome",
+  "organism": "Sarbecovirus sp.",
+  "createdate": "2017/04/19",
+  "updatedate": "2021/09/15",
+  "slen": 29667
+ },
+ "1179780459": {
+  "accession": "KY770858.1",
+  "title": "Sarbecovirus sp. isolate Anlong-103, complete genome",
+  "organism": "Sarbecovirus sp.",
+  "createdate": "2017/04/19",
+  "updatedate": "2021/09/15",
+  "slen": 29688
+ },
+ "1023043583": {
+  "accession": "KU182964.1",
+  "title": "Sarbecovirus sp. isolate JTMC15, complete genome",
+  "organism": "Sarbecovirus sp.",
+  "createdate": "2016/04/28",
+  "updatedate": "2021/09/15",
+  "slen": 28761
+ },
+ "31416290": {
+  "accession": "AY278489.2",
+  "title": "SARS coronavirus GD01, complete genome",
+  "organism": "SARS coronavirus GD01",
+  "createdate": "2003/04/21",
+  "updatedate": "2021/04/15",
+  "slen": 29757
+ },
+ "30271926": {
+  "accession": "NC_004718.3",
+  "title": "SARS coronavirus Tor2, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2003/04/14",
+  "updatedate": "2020/11/20",
+  "slen": 29751
+ },
+ "55784851": {
+  "accession": "CQ903009.1",
+  "title": "Sequence 13 from Patent WO2004094667",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2004/11/16",
+  "updatedate": "2020/05/25",
+  "slen": 29727
+ },
+ "404325900": {
+  "accession": "JX163928.1",
+  "title": "SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2012/09/17",
+  "updatedate": "2020/05/27",
+  "slen": 29646
+ },
+ "404325885": {
+  "accession": "JX163927.1",
+  "title": "SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2012/09/17",
+  "updatedate": "2020/05/27",
+  "slen": 29646
+ },
+ "404325870": {
+  "accession": "JX163926.1",
+  "title": "SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2012/09/17",
+  "updatedate": "2020/05/27",
+  "slen": 29646
+ },
+ "404325855": {
+  "accession": "JX163925.1",
+  "title": "SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2012/09/17",
+  "updatedate": "2020/05/27",
+  "slen": 29646
+ },
+ "404325840": {
+  "accession": "JX163924.1",
+  "title": "SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2012/09/17",
+  "updatedate": "2020/05/27",
+  "slen": 29646
+ },
+ "404325825": {
+  "accession": "JX163923.1",
+  "title": "SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2012/09/17",
+  "updatedate": "2020/05/27",
+  "slen": 29646
+ },
+ "30248028": {
+  "accession": "AY274119.3",
+  "title": "SARS coronavirus Tor2, complete genome",
+  "organism": "SARS coronavirus Tor2",
+  "createdate": "2003/04/14",
+  "updatedate": "2020/05/27",
+  "slen": 29751
+ },
+ "1189483555": {
+  "accession": "KU973692.1",
+  "title": "UNVERIFIED: Severe acute respiratory syndrome-related coronavirus isolate F46, complete genome",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2017/05/10",
+  "updatedate": "2020/03/16",
+  "slen": 29722
+ },
+ "656462529": {
+  "accession": "KF294457.1",
+  "title": "Bat SARS-like coronavirus isolate Longquan-140 orf1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2014/10/30",
+  "updatedate": "2020/03/16",
+  "slen": 29676
+ },
+ "656462527": {
+  "accession": "KF294456.1",
+  "title": "Bat SARS-like coronavirus isolate Jiyuan-331 orf1ab polyprotein gene, complete cds",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2014/10/30",
+  "updatedate": "2020/03/16",
+  "slen": 21444
+ },
+ "656462524": {
+  "accession": "KF294455.1",
+  "title": "Bat SARS-like coronavirus isolate Anlong-111 orf1ab polyprotein and orf1a polyprotein genes, complete cds",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2014/10/30",
+  "updatedate": "2020/03/16",
+  "slen": 21479
+ },
+ "1120605611": {
+  "accession": "KY352407.1",
+  "title": "Severe acute respiratory syndrome-related coronavirus strain BtKY72, complete genome",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2018/12/31",
+  "updatedate": "2020/02/05",
+  "slen": 29274
+ },
+ "1693074687": {
+  "accession": "MK211378.1",
+  "title": "Coronavirus BtRs-BetaCoV/YN2018D, complete genome",
+  "organism": "Coronavirus BtRs-BetaCoV/YN2018D",
+  "createdate": "2019/06/30",
+  "updatedate": "2019/06/30",
+  "slen": 30213
+ },
+ "1693074678": {
+  "accession": "MK211377.1",
+  "title": "Coronavirus BtRs-BetaCoV/YN2018C, complete genome",
+  "organism": "Coronavirus BtRs-BetaCoV/YN2018C",
+  "createdate": "2019/06/30",
+  "updatedate": "2019/06/30",
+  "slen": 29689
+ },
+ "1693074671": {
+  "accession": "MK211376.1",
+  "title": "Coronavirus BtRs-BetaCoV/YN2018B, complete genome",
+  "organism": "Coronavirus BtRs-BetaCoV/YN2018B",
+  "createdate": "2019/06/30",
+  "updatedate": "2019/06/30",
+  "slen": 30256
+ },
+ "1693074662": {
+  "accession": "MK211375.1",
+  "title": "Coronavirus BtRs-BetaCoV/YN2018A, complete genome",
+  "organism": "Coronavirus BtRs-BetaCoV/YN2018A",
+  "createdate": "2019/06/30",
+  "updatedate": "2019/06/30",
+  "slen": 29698
+ },
+ "1693074653": {
+  "accession": "MK211374.1",
+  "title": "Coronavirus BtRl-BetaCoV/SC2018, complete genome",
+  "organism": "Coronavirus BtRl-BetaCoV/SC2018",
+  "createdate": "2019/06/30",
+  "updatedate": "2019/06/30",
+  "slen": 29648
+ },
+ "1516405882": {
+  "accession": "MK062184.1",
+  "title": "SARS coronavirus Urbani isolate icSARS-C7-MA, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2018/11/21",
+  "updatedate": "2018/11/21",
+  "slen": 29874
+ },
+ "1516405867": {
+  "accession": "MK062183.1",
+  "title": "SARS coronavirus Urbani isolate icSARS-C7, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2018/11/21",
+  "updatedate": "2018/11/21",
+  "slen": 29874
+ },
+ "1516405852": {
+  "accession": "MK062182.1",
+  "title": "SARS coronavirus Urbani isolate icSARS-C3-MA, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2018/11/21",
+  "updatedate": "2018/11/21",
+  "slen": 29727
+ },
+ "1516405837": {
+  "accession": "MK062181.1",
+  "title": "SARS coronavirus Urbani isolate icSARS-C3, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2018/11/21",
+  "updatedate": "2018/11/21",
+  "slen": 29727
+ },
+ "1516405822": {
+  "accession": "MK062180.1",
+  "title": "SARS coronavirus Urbani isolate icSARS-MA, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2018/11/21",
+  "updatedate": "2018/11/21",
+  "slen": 29727
+ },
+ "1516405807": {
+  "accession": "MK062179.1",
+  "title": "SARS coronavirus Urbani isolate icSARS, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2018/11/21",
+  "updatedate": "2018/11/21",
+  "slen": 29727
+ },
+ "1270541521": {
+  "accession": "KY417152.1",
+  "title": "Bat SARS-like coronavirus isolate Rs9401, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29769
+ },
+ "1270541507": {
+  "accession": "KY417151.1",
+  "title": "Bat SARS-like coronavirus isolate Rs7327, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 30307
+ },
+ "1270541493": {
+  "accession": "KY417150.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4874, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 30311
+ },
+ "1270541480": {
+  "accession": "KY417149.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4255, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29743
+ },
+ "1270541467": {
+  "accession": "KY417148.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4247, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29743
+ },
+ "1270541454": {
+  "accession": "KY417147.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4237, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29741
+ },
+ "1270541441": {
+  "accession": "KY417146.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4231, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29782
+ },
+ "1270541428": {
+  "accession": "KY417145.1",
+  "title": "Bat SARS-like coronavirus isolate Rf4092, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29710
+ },
+ "1270541414": {
+  "accession": "KY417144.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4084, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29770
+ },
+ "1270541401": {
+  "accession": "KY417143.1",
+  "title": "Bat SARS-like coronavirus isolate Rs4081, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29741
+ },
+ "1270541388": {
+  "accession": "KY417142.1",
+  "title": "Bat SARS-like coronavirus isolate As6526, complete genome",
+  "organism": "Bat SARS-like coronavirus",
+  "createdate": "2017/11/01",
+  "updatedate": "2017/12/18",
+  "slen": 29725
+ },
+ "641457823": {
+  "accession": "KJ473816.1",
+  "title": "BtRs-BetaCoV/YN2013, complete genome",
+  "organism": "BtRs-BetaCoV/YN2013",
+  "createdate": "2015/12/31",
+  "updatedate": "2017/07/07",
+  "slen": 29142
+ },
+ "641457812": {
+  "accession": "KJ473815.1",
+  "title": "BtRs-BetaCoV/GX2013, complete genome",
+  "organism": "BtRs-BetaCoV/GX2013",
+  "createdate": "2015/12/31",
+  "updatedate": "2017/07/07",
+  "slen": 29161
+ },
+ "641457801": {
+  "accession": "KJ473814.1",
+  "title": "BtRs-BetaCoV/HuB2013, complete genome",
+  "organism": "BtRs-BetaCoV/HuB2013",
+  "createdate": "2015/12/31",
+  "updatedate": "2017/07/07",
+  "slen": 29658
+ },
+ "641457790": {
+  "accession": "KJ473813.1",
+  "title": "BtRf-BetaCoV/SX2013, complete genome",
+  "organism": "BtRf-BetaCoV/SX2013",
+  "createdate": "2015/12/31",
+  "updatedate": "2017/07/07",
+  "slen": 29461
+ },
+ "641457779": {
+  "accession": "KJ473812.1",
+  "title": "BtRf-BetaCoV/HeB2013, complete genome",
+  "organism": "BtRf-BetaCoV/HeB2013",
+  "createdate": "2015/12/31",
+  "updatedate": "2017/07/07",
+  "slen": 29443
+ },
+ "641457765": {
+  "accession": "KJ473811.1",
+  "title": "BtRf-BetaCoV/JL2012, complete genome",
+  "organism": "BtRf-BetaCoV/JL2012",
+  "createdate": "2015/12/31",
+  "updatedate": "2017/07/07",
+  "slen": 29037
+ },
+ "442796484": {
+  "accession": "JX993988.1",
+  "title": "Bat coronavirus Cp/Yunnan2011, complete genome",
+  "organism": "Bat coronavirus Cp/Yunnan2011",
+  "createdate": "2013/06/10",
+  "updatedate": "2017/07/07",
+  "slen": 29452
+ },
+ "442796476": {
+  "accession": "JX993987.1",
+  "title": "Bat coronavirus Rp/Shaanxi2011, complete genome",
+  "organism": "Bat coronavirus Rp/Shaanxi2011",
+  "createdate": "2013/06/10",
+  "updatedate": "2017/07/07",
+  "slen": 29484
+ },
+ "1059791175": {
+  "accession": "AH013709.2",
+  "title": "SARS coronavirus Sin_WNV, partial sequence",
+  "organism": "SARS coronavirus Sin_WNV",
+  "createdate": "2004/03/17",
+  "updatedate": "2016/08/25",
+  "slen": 27358
+ },
+ "1059791174": {
+  "accession": "AH013708.2",
+  "title": "SARS coronavirus Sin0409, partial sequence",
+  "organism": "SARS coronavirus Sin0409",
+  "createdate": "2004/03/17",
+  "updatedate": "2016/08/25",
+  "slen": 25965
+ },
+ "33188324": {
+  "accession": "AY348314.1",
+  "title": "SARS coronavirus Taiwan TC3, complete genome",
+  "organism": "SARS coronavirus Taiwan TC3",
+  "createdate": "2003/07/24",
+  "updatedate": "2016/07/25",
+  "slen": 29573
+ },
+ "32493130": {
+  "accession": "AY338175.1",
+  "title": "SARS coronavirus Taiwan TC2, complete genome",
+  "organism": "SARS coronavirus Taiwan TC2",
+  "createdate": "2003/07/10",
+  "updatedate": "2016/07/25",
+  "slen": 29573
+ },
+ "32493129": {
+  "accession": "AY338174.1",
+  "title": "SARS coronavirus Taiwan TC1, complete genome",
+  "organism": "SARS coronavirus Taiwan TC1",
+  "createdate": "2003/07/10",
+  "updatedate": "2016/07/25",
+  "slen": 29573
+ },
+ "30027617": {
+  "accession": "AY278741.1",
+  "title": "SARS coronavirus Urbani, complete genome",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2003/04/21",
+  "updatedate": "2016/07/25",
+  "slen": 29727
+ },
+ "76160337": {
+  "accession": "DQ022305.2",
+  "title": "Bat SARS coronavirus HKU3-1, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-1",
+  "createdate": "2005/09/23",
+  "updatedate": "2005/10/25",
+  "slen": 29728
+ },
+ "71796716": {
+  "accession": "DQ084200.1",
+  "title": "bat SARS coronavirus HKU3-3, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-3",
+  "createdate": "2005/09/23",
+  "updatedate": "2005/09/28",
+  "slen": 29711
+ },
+ "71796704": {
+  "accession": "DQ084199.1",
+  "title": "bat SARS coronavirus HKU3-2, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-2",
+  "createdate": "2005/09/23",
+  "updatedate": "2005/09/28",
+  "slen": 29687
+ },
+ "940378824": {
+  "accession": "KT444582.1",
+  "title": "SARS-like coronavirus WIV16, complete genome",
+  "organism": "SARS-like coronavirus WIV16",
+  "createdate": "2016/01/13",
+  "updatedate": "2016/01/13",
+  "slen": 30290
+ },
+ "916354756": {
+  "accession": "KP886809.1",
+  "title": "Bat SARS-like coronavirus YNLF_34C, complete genome",
+  "organism": "Bat SARS-like coronavirus YNLF_34C",
+  "createdate": "2015/08/19",
+  "updatedate": "2015/08/19",
+  "slen": 29723
+ },
+ "916354744": {
+  "accession": "KP886808.1",
+  "title": "Bat SARS-like coronavirus YNLF_31C, complete genome",
+  "organism": "Bat SARS-like coronavirus YNLF_31C",
+  "createdate": "2015/08/19",
+  "updatedate": "2015/08/19",
+  "slen": 29723
+ },
+ "530341129": {
+  "accession": "KF514423.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c3P20/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341113": {
+  "accession": "KF514422.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.3P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341097": {
+  "accession": "KF514421.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.2P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341081": {
+  "accession": "KF514420.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5P10/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341065": {
+  "accession": "KF514419.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1P10/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341049": {
+  "accession": "KF514418.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c3P1/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341033": {
+  "accession": "KF514417.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.3P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341017": {
+  "accession": "KF514416.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.8P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530341001": {
+  "accession": "KF514415.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.7P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340985": {
+  "accession": "KF514414.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5P20/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340969": {
+  "accession": "KF514413.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.6P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340953": {
+  "accession": "KF514412.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c13P20/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340937": {
+  "accession": "KF514411.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c13P10/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340921": {
+  "accession": "KF514410.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c8P20/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340905": {
+  "accession": "KF514409.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c2P20/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340889": {
+  "accession": "KF514408.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c2P1/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340873": {
+  "accession": "KF514407.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.7P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29689
+ },
+ "530340857": {
+  "accession": "KF514406.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c13P1/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340841": {
+  "accession": "KF514405.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.2P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340825": {
+  "accession": "KF514404.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.9P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340809": {
+  "accession": "KF514403.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.1P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340793": {
+  "accession": "KF514402.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.6P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340777": {
+  "accession": "KF514401.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.5P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340761": {
+  "accession": "KF514400.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.8P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340745": {
+  "accession": "KF514399.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.1P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340729": {
+  "accession": "KF514398.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.10P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340713": {
+  "accession": "KF514397.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c2P10/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340697": {
+  "accession": "KF514396.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c3P10/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340681": {
+  "accession": "KF514395.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c8P1/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340665": {
+  "accession": "KF514394.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1P20/2009, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340649": {
+  "accession": "KF514393.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.10P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340633": {
+  "accession": "KF514392.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.4P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340617": {
+  "accession": "KF514391.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.9P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340601": {
+  "accession": "KF514390.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c5.4P20/2010, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340585": {
+  "accession": "KF514389.1",
+  "title": "SARS coronavirus ExoN1 strain SARS/VeroE6_lab/USA/ExoN1_c8P10/2009, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "530340569": {
+  "accession": "KF514388.1",
+  "title": "SARS coronavirus wtic-MB strain SARS/VeroE6_lab/USA/WTic_c1.5P20/2010, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2013/08/17",
+  "updatedate": "2014/09/26",
+  "slen": 29687
+ },
+ "326909038": {
+  "accession": "JF292922.1",
+  "title": "SARS coronavirus ExoN1 isolate c5P1, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29647
+ },
+ "326909022": {
+  "accession": "JF292921.1",
+  "title": "SARS coronavirus wtic-MB isolate c1P1, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326909006": {
+  "accession": "JF292920.1",
+  "title": "SARS coronavirus MA15 isolate d3om5, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908990": {
+  "accession": "JF292919.1",
+  "title": "SARS coronavirus MA15 isolate d3om4, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908974": {
+  "accession": "JF292918.1",
+  "title": "SARS coronavirus MA15 isolate d3om3, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908958": {
+  "accession": "JF292917.1",
+  "title": "SARS coronavirus MA15 isolate d3om2, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908942": {
+  "accession": "JF292916.1",
+  "title": "SARS coronavirus MA15 isolate d3om1, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908926": {
+  "accession": "JF292915.1",
+  "title": "SARS coronavirus MA15 isolate d4ym5, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908910": {
+  "accession": "JF292914.1",
+  "title": "SARS coronavirus MA15 isolate d4ym4, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908894": {
+  "accession": "JF292913.1",
+  "title": "SARS coronavirus MA15 isolate d4ym3, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908878": {
+  "accession": "JF292912.1",
+  "title": "SARS coronavirus MA15 isolate d4ym2, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908862": {
+  "accession": "JF292911.1",
+  "title": "SARS coronavirus MA15 isolate d4ym1, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908846": {
+  "accession": "JF292910.1",
+  "title": "SARS coronavirus MA15 isolate d2ym5, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908830": {
+  "accession": "JF292909.1",
+  "title": "SARS coronavirus MA15 isolate d2ym4, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908814": {
+  "accession": "JF292908.1",
+  "title": "SARS coronavirus MA15 isolate d2ym3, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908798": {
+  "accession": "JF292907.1",
+  "title": "SARS coronavirus MA15 isolate d2ym2, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908782": {
+  "accession": "JF292906.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d3om5, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908766": {
+  "accession": "JF292905.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d3om4, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908750": {
+  "accession": "JF292904.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d3om3, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29645
+ },
+ "326908734": {
+  "accession": "JF292903.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d4ym5, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29645
+ },
+ "326908718": {
+  "accession": "JF292902.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d4ym4, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908702": {
+  "accession": "HQ890546.1",
+  "title": "SARS coronavirus MA15 isolate d2om5, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908686": {
+  "accession": "HQ890545.1",
+  "title": "SARS coronavirus MA15 isolate d2om4, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908670": {
+  "accession": "HQ890544.1",
+  "title": "SARS coronavirus MA15 isolate d2om3, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908654": {
+  "accession": "HQ890543.1",
+  "title": "SARS coronavirus MA15 isolate d2om2, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908638": {
+  "accession": "HQ890542.1",
+  "title": "SARS coronavirus MA15 isolate d2om1, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908622": {
+  "accession": "HQ890541.1",
+  "title": "SARS coronavirus MA15 isolate d2ym1, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908606": {
+  "accession": "HQ890540.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d3om2, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908590": {
+  "accession": "HQ890539.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d3om1, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908574": {
+  "accession": "HQ890538.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2om5, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908558": {
+  "accession": "HQ890537.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2om4, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908542": {
+  "accession": "HQ890536.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2om3, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908526": {
+  "accession": "HQ890535.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2om2, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908510": {
+  "accession": "HQ890534.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2om1, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908494": {
+  "accession": "HQ890533.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d4ym3, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908478": {
+  "accession": "HQ890532.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d4ym2, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29645
+ },
+ "326908462": {
+  "accession": "HQ890531.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d4ym1, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29645
+ },
+ "326908446": {
+  "accession": "HQ890530.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2ym5, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908430": {
+  "accession": "HQ890529.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2ym4, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908414": {
+  "accession": "HQ890528.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2ym3, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908398": {
+  "accession": "HQ890527.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2ym2, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "326908382": {
+  "accession": "HQ890526.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate d2ym1, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2011/03/25",
+  "updatedate": "2014/09/26",
+  "slen": 29646
+ },
+ "614458327": {
+  "accession": "KF569996.1",
+  "title": "Rhinolophus affinis coronavirus isolate LYRa11, complete genome",
+  "organism": "Rhinolophus affinis coronavirus",
+  "createdate": "2014/04/26",
+  "updatedate": "2014/05/29",
+  "slen": 29805
+ },
+ "585407825": {
+  "accession": "HW375992.1",
+  "title": "JP 2012255024-A/1: MODIFIED SMALL INTERFERING RNA MOLECULES AND METHODS OF USE",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2014/02/18",
+  "updatedate": "2014/02/18",
+  "slen": 29751
+ },
+ "556015127": {
+  "accession": "KC881006.1",
+  "title": "Bat SARS-like coronavirus Rs3367, complete genome",
+  "organism": "Bat SARS-like coronavirus Rs3367",
+  "createdate": "2013/11/06",
+  "updatedate": "2013/11/22",
+  "slen": 29792
+ },
+ "556015114": {
+  "accession": "KC881005.1",
+  "title": "Bat SARS-like coronavirus RsSHC014, complete genome",
+  "organism": "Bat SARS-like coronavirus RsSHC014",
+  "createdate": "2013/11/06",
+  "updatedate": "2013/11/22",
+  "slen": 29787
+ },
+ "556015142": {
+  "accession": "KF367457.1",
+  "title": "Bat SARS-like coronavirus WIV1, complete genome",
+  "organism": "Bat SARS-like coronavirus WIV1",
+  "createdate": "2013/11/06",
+  "updatedate": "2013/11/06",
+  "slen": 30309
+ },
+ "549416271": {
+  "accession": "HW269828.1",
+  "title": "JP 2012105686-A/1: MODIFIED SMALL INTERFERING RNA MOLECULES AND METHODS OF USE",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2013/10/16",
+  "updatedate": "2013/10/16",
+  "slen": 29751
+ },
+ "391377975": {
+  "accession": "JX162087.1",
+  "title": "SARS coronavirus ExoN1 isolate c5P10, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2012/06/20",
+  "updatedate": "2012/06/20",
+  "slen": 29688
+ },
+ "387912994": {
+  "accession": "JN854286.1",
+  "title": "SARS coronavirus HKU-39849 isolate recSARS-CoV HKU-39849, complete genome",
+  "organism": "SARS coronavirus HKU-39849",
+  "createdate": "2012/05/23",
+  "updatedate": "2012/05/23",
+  "slen": 29727
+ },
+ "380452611": {
+  "accession": "JQ316196.1",
+  "title": "SARS coronavirus HKU-39849 isolate UOB, complete genome",
+  "organism": "SARS coronavirus HKU-39849",
+  "createdate": "2012/03/20",
+  "updatedate": "2012/03/20",
+  "slen": 29727
+ },
+ "89514824": {
+  "accession": "DQ412043.1",
+  "title": "Bat SARS coronavirus Rm1, complete genome",
+  "organism": "Bat SARS CoV Rm1/2004",
+  "createdate": "2006/07/13",
+  "updatedate": "2006/07/13",
+  "slen": 29749
+ },
+ "89514809": {
+  "accession": "DQ412042.1",
+  "title": "Bat SARS coronavirus Rf1, complete genome",
+  "organism": "Bat SARS CoV Rf1/2004",
+  "createdate": "2006/07/13",
+  "updatedate": "2006/07/13",
+  "slen": 29709
+ },
+ "49176846": {
+  "accession": "AY595412.1",
+  "title": "SARS coronavirus LLJ-2004, complete genome",
+  "organism": "SARS coronavirus LLJ-2004",
+  "createdate": "2004/06/29",
+  "updatedate": "2006/12/07",
+  "slen": 29716
+ },
+ "311536727": {
+  "accession": "HI553383.1",
+  "title": "Sequence 41 from Patent EP2139515",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2010/11/02",
+  "updatedate": "2010/11/02",
+  "slen": 29751
+ },
+ "301298998": {
+  "accession": "GU190215.1",
+  "title": "Bat coronavirus BM48-31/BGR/2008, complete genome",
+  "organism": "Bat coronavirus BM48-31/BGR/2008",
+  "createdate": "2010/08/25",
+  "updatedate": "2010/10/08",
+  "slen": 29276
+ },
+ "40457448": {
+  "accession": "AY463060.1",
+  "title": "SARS coronavirus ShanghaiQXC2, complete genome",
+  "organism": "SARS coronavirus ShanghaiQXC2",
+  "createdate": "2004/01/05",
+  "updatedate": "2004/01/05",
+  "slen": 29013
+ },
+ "40457433": {
+  "accession": "AY463059.1",
+  "title": "SARS coronavirus ShanghaiQXC1, complete genome",
+  "organism": "SARS coronavirus ShanghaiQXC1",
+  "createdate": "2004/01/05",
+  "updatedate": "2004/01/05",
+  "slen": 29592
+ },
+ "38505491": {
+  "accession": "AY485278.1",
+  "title": "SARS coronavirus Sino3-11, complete genome",
+  "organism": "SARS coronavirus Sino3-11",
+  "createdate": "2003/11/30",
+  "updatedate": "2005/11/18",
+  "slen": 29740
+ },
+ "38505482": {
+  "accession": "AY485277.1",
+  "title": "SARS coronavirus Sino1-11, complete genome",
+  "organism": "SARS coronavirus Sino1-11",
+  "createdate": "2003/11/30",
+  "updatedate": "2005/11/18",
+  "slen": 29741
+ },
+ "270309757": {
+  "accession": "FJ882960.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp34, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309694": {
+  "accession": "FJ882956.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp53, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29644
+ },
+ "270309678": {
+  "accession": "FJ882955.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp19, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309663": {
+  "accession": "FJ882954.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp46, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29636
+ },
+ "270309601": {
+  "accession": "FJ882950.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp60, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309585": {
+  "accession": "FJ882949.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp23, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29647
+ },
+ "270309555": {
+  "accession": "FJ882947.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp7, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29616
+ },
+ "270309539": {
+  "accession": "FJ882946.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp13, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29647
+ },
+ "270309507": {
+  "accession": "FJ882944.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp23, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29628
+ },
+ "270309460": {
+  "accession": "FJ882941.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp8, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29665
+ },
+ "270309444": {
+  "accession": "FJ882940.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp37, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309428": {
+  "accession": "FJ882939.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp16, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309412": {
+  "accession": "FJ882938.1",
+  "title": "SARS coronavirus wtic-MB, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29687
+ },
+ "270309396": {
+  "accession": "FJ882937.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp18, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29648
+ },
+ "270309380": {
+  "accession": "FJ882936.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp2, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309364": {
+  "accession": "FJ882935.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp21, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29647
+ },
+ "270309348": {
+  "accession": "FJ882934.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp29, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29647
+ },
+ "270309332": {
+  "accession": "FJ882933.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp6, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29648
+ },
+ "270309316": {
+  "accession": "FJ882932.1",
+  "title": "SARS coronavirus wtic-MB isolate P3pp14, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309300": {
+  "accession": "FJ882931.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp12, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29646
+ },
+ "270309284": {
+  "accession": "FJ882930.1",
+  "title": "SARS coronavirus ExoN1, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29687
+ },
+ "270309269": {
+  "accession": "FJ882929.1",
+  "title": "SARS coronavirus ExoN1 isolate P3pp1, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29665
+ },
+ "270309253": {
+  "accession": "FJ882928.1",
+  "title": "SARS coronavirus ExoN1 isolate P1pp1, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29687
+ },
+ "270309237": {
+  "accession": "FJ882927.1",
+  "title": "SARS coronavirus wtic-MB isolate P1pp1, complete genome",
+  "organism": "SARS coronavirus wtic-MB",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29687
+ },
+ "270309221": {
+  "accession": "FJ882926.1",
+  "title": "SARS coronavirus ExoN1, complete genome",
+  "organism": "SARS coronavirus ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2010/05/18",
+  "slen": 29675
+ },
+ "292660245": {
+  "accession": "GQ153548.1",
+  "title": "Bat SARS coronavirus HKU3-13, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-13",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29677
+ },
+ "292660233": {
+  "accession": "GQ153547.1",
+  "title": "Bat SARS coronavirus HKU3-12, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-12",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29704
+ },
+ "292660221": {
+  "accession": "GQ153546.1",
+  "title": "Bat SARS coronavirus HKU3-11, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-11",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29695
+ },
+ "292660209": {
+  "accession": "GQ153545.1",
+  "title": "Bat SARS coronavirus HKU3-10, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-10",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29695
+ },
+ "292660197": {
+  "accession": "GQ153544.1",
+  "title": "Bat SARS coronavirus HKU3-9, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-9",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29695
+ },
+ "292660183": {
+  "accession": "GQ153543.1",
+  "title": "Bat SARS coronavirus HKU3-8, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-8",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29681
+ },
+ "292660171": {
+  "accession": "GQ153542.1",
+  "title": "Bat SARS coronavirus HKU3-7, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-7",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29716
+ },
+ "292660159": {
+  "accession": "GQ153541.1",
+  "title": "Bat SARS coronavirus HKU3-6, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-6",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29704
+ },
+ "292660147": {
+  "accession": "GQ153540.1",
+  "title": "Bat SARS coronavirus HKU3-5, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-5",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29704
+ },
+ "292660135": {
+  "accession": "GQ153539.1",
+  "title": "Bat SARS coronavirus HKU3-4, complete genome",
+  "organism": "Bat SARS coronavirus HKU3-4",
+  "createdate": "2010/04/05",
+  "updatedate": "2010/04/05",
+  "slen": 29704
+ },
+ "291212061": {
+  "accession": "FV537213.1",
+  "title": "Modified Microbial Nucleic Acid",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2010/03/18",
+  "updatedate": "2010/03/18",
+  "slen": 29751
+ },
+ "291212060": {
+  "accession": "FV537212.1",
+  "title": "Modified Microbial Nucleic Acid",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2010/03/18",
+  "updatedate": "2010/03/18",
+  "slen": 29751
+ },
+ "291212059": {
+  "accession": "FV537211.1",
+  "title": "Modified Microbial Nucleic Acid",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2010/03/18",
+  "updatedate": "2010/03/18",
+  "slen": 29751
+ },
+ "291212058": {
+  "accession": "FV537210.1",
+  "title": "Modified Microbial Nucleic Acid",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2010/03/18",
+  "updatedate": "2010/03/18",
+  "slen": 29751
+ },
+ "255733149": {
+  "accession": "FJ588686.1",
+  "title": "Bat SARS CoV Rs672/2006, complete genome",
+  "organism": "SARS coronavirus Rs_672/2006",
+  "createdate": "2009/12/19",
+  "updatedate": "2010/03/18",
+  "slen": 29059
+ },
+ "38304867": {
+  "accession": "AY282752.2",
+  "title": "SARS coronavirus CUHK-Su10, complete genome",
+  "organism": "SARS coronavirus CUHK-Su10",
+  "createdate": "2003/05/07",
+  "updatedate": "2003/11/17",
+  "slen": 29736
+ },
+ "33578015": {
+  "accession": "AY310120.1",
+  "title": "SARS coronavirus FRA, complete genome",
+  "organism": "SARS coronavirus FRA",
+  "createdate": "2003/08/12",
+  "updatedate": "2003/12/12",
+  "slen": 29740
+ },
+ "31581502": {
+  "accession": "AY291315.1",
+  "title": "SARS coronavirus Frankfurt 1, complete genome",
+  "organism": "SARS coronavirus Frankfurt 1",
+  "createdate": "2003/06/11",
+  "updatedate": "2004/03/16",
+  "slen": 29727
+ },
+ "37960831": {
+  "accession": "AY313906.1",
+  "title": "SARS coronavirus GD69, complete genome",
+  "organism": "SARS coronavirus GD69",
+  "createdate": "2003/12/03",
+  "updatedate": "2005/02/28",
+  "slen": 29754
+ },
+ "37361915": {
+  "accession": "AY283798.2",
+  "title": "SARS coronavirus Sin2774, complete genome",
+  "organism": "SARS coronavirus Sin2774",
+  "createdate": "2003/05/09",
+  "updatedate": "2003/10/02",
+  "slen": 29711
+ },
+ "30468045": {
+  "accession": "AY283797.1",
+  "title": "SARS coronavirus Sin2748, complete genome",
+  "organism": "SARS coronavirus Sin2748",
+  "createdate": "2003/05/09",
+  "updatedate": "2003/08/12",
+  "slen": 29706
+ },
+ "30468044": {
+  "accession": "AY283796.1",
+  "title": "SARS coronavirus Sin2679, complete genome",
+  "organism": "SARS coronavirus Sin2679",
+  "createdate": "2003/05/09",
+  "updatedate": "2003/08/12",
+  "slen": 29711
+ },
+ "30468043": {
+  "accession": "AY283795.1",
+  "title": "SARS coronavirus Sin2677, complete genome",
+  "organism": "SARS coronavirus Sin2677",
+  "createdate": "2003/05/09",
+  "updatedate": "2003/08/12",
+  "slen": 29705
+ },
+ "30468042": {
+  "accession": "AY283794.1",
+  "title": "SARS coronavirus Sin2500, complete genome",
+  "organism": "SARS coronavirus Sin2500",
+  "createdate": "2003/05/09",
+  "updatedate": "2003/08/12",
+  "slen": 29711
+ },
+ "285803947": {
+  "accession": "GU553365.1",
+  "title": "SARS coronavirus HKU-39849 isolate TCVSP-HARROD-00003, complete genome",
+  "organism": "SARS coronavirus HKU-39849",
+  "createdate": "2010/02/08",
+  "updatedate": "2010/02/08",
+  "slen": 29644
+ },
+ "285803932": {
+  "accession": "GU553364.1",
+  "title": "SARS coronavirus HKU-39849 isolate TCVSP-HARROD-00002, complete genome",
+  "organism": "SARS coronavirus HKU-39849",
+  "createdate": "2010/02/08",
+  "updatedate": "2010/02/08",
+  "slen": 29644
+ },
+ "285803917": {
+  "accession": "GU553363.1",
+  "title": "SARS coronavirus HKU-39849 isolate TCVSP-HARROD-00001, complete genome",
+  "organism": "SARS coronavirus HKU-39849",
+  "createdate": "2010/02/08",
+  "updatedate": "2010/02/08",
+  "slen": 29644
+ },
+ "258958195": {
+  "accession": "FJ959407.1",
+  "title": "SARS coronavirus isolate A001, complete genome",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2009/09/26",
+  "updatedate": "2009/09/26",
+  "slen": 29694
+ },
+ "55275786": {
+  "accession": "AY686864.1",
+  "title": "SARS coronavirus B039, complete genome",
+  "organism": "SARS coronavirus B039",
+  "createdate": "2005/07/08",
+  "updatedate": "2005/07/08",
+  "slen": 29525
+ },
+ "31416306": {
+  "accession": "AY279354.2",
+  "title": "SARS coronavirus BJ04, complete genome",
+  "organism": "SARS coronavirus BJ04",
+  "createdate": "2003/04/23",
+  "updatedate": "2009/09/01",
+  "slen": 29732
+ },
+ "31416305": {
+  "accession": "AY278490.3",
+  "title": "SARS coronavirus BJ03, complete genome",
+  "organism": "SARS coronavirus BJ03",
+  "createdate": "2003/04/21",
+  "updatedate": "2009/09/01",
+  "slen": 29740
+ },
+ "31416292": {
+  "accession": "AY278487.3",
+  "title": "SARS coronavirus BJ02, complete genome",
+  "organism": "SARS coronavirus BJ02",
+  "createdate": "2003/04/21",
+  "updatedate": "2009/09/01",
+  "slen": 29745
+ },
+ "30275666": {
+  "accession": "AY278488.2",
+  "title": "SARS coronavirus BJ01, complete genome",
+  "organism": "SARS coronavirus BJ01",
+  "createdate": "2003/04/21",
+  "updatedate": "2009/09/01",
+  "slen": 29725
+ },
+ "115392313": {
+  "accession": "DQ898174.1",
+  "title": "SARS coronavirus strain CV7, complete genome",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2007/08/11",
+  "updatedate": "2009/05/07",
+  "slen": 29751
+ },
+ "99078934": {
+  "accession": "DQ497008.1",
+  "title": "SARS coronavirus strain MA-15, complete genome",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2006/05/28",
+  "updatedate": "2007/03/20",
+  "slen": 29727
+ },
+ "72256267": {
+  "accession": "DQ071615.1",
+  "title": "Bat SARS coronavirus Rp3, complete genome",
+  "organism": "Bat SARS CoV Rp3/2004",
+  "createdate": "2005/10/05",
+  "updatedate": "2006/01/25",
+  "slen": 29736
+ },
+ "34482139": {
+  "accession": "AY304488.1",
+  "title": "SARS coronavirus SZ16, complete genome",
+  "organism": "Civet SARS CoV SZ16/2003",
+  "createdate": "2003/09/05",
+  "updatedate": "2003/11/05",
+  "slen": 29731
+ },
+ "34482137": {
+  "accession": "AY304486.1",
+  "title": "SARS coronavirus SZ3, complete genome",
+  "organism": "Civet SARS CoV SZ3/2003",
+  "createdate": "2003/09/05",
+  "updatedate": "2003/11/05",
+  "slen": 29741
+ },
+ "270309789": {
+  "accession": "FJ882962.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate P3pp10, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29721
+ },
+ "270309773": {
+  "accession": "FJ882961.1",
+  "title": "SARS coronavirus MA15 isolate P3pp5, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309742": {
+  "accession": "FJ882959.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate P3pp6, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29721
+ },
+ "270309726": {
+  "accession": "FJ882958.1",
+  "title": "SARS coronavirus MA15 isolate P3pp7, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309710": {
+  "accession": "FJ882957.1",
+  "title": "SARS coronavirus MA15, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309647": {
+  "accession": "FJ882953.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate P3pp4, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29648
+ },
+ "270309631": {
+  "accession": "FJ882952.1",
+  "title": "SARS coronavirus MA15 isolate P3pp4, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309616": {
+  "accession": "FJ882951.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate P3pp3, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29721
+ },
+ "270309569": {
+  "accession": "FJ882948.1",
+  "title": "SARS coronavirus MA15 isolate P3pp3, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309523": {
+  "accession": "FJ882945.1",
+  "title": "SARS coronavirus MA15 isolate P3pp6, complete genome",
+  "organism": "SARS coronavirus MA15",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309491": {
+  "accession": "FJ882943.1",
+  "title": "SARS coronavirus MA15 ExoN1, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29720
+ },
+ "270309476": {
+  "accession": "FJ882942.1",
+  "title": "SARS coronavirus MA15 ExoN1 isolate P3pp5, complete genome",
+  "organism": "SARS coronavirus MA15 ExoN1",
+  "createdate": "2009/12/13",
+  "updatedate": "2009/12/13",
+  "slen": 29721
+ },
+ "109893933": {
+  "accession": "DQ648857.1",
+  "title": "Bat coronavirus (BtCoV/279/2005), complete genome",
+  "organism": "Bat CoV 279/2005",
+  "createdate": "2006/07/19",
+  "updatedate": "2006/07/19",
+  "slen": 29741
+ },
+ "109893923": {
+  "accession": "DQ648856.1",
+  "title": "Bat coronavirus (BtCoV/273/2005), complete genome",
+  "organism": "Bat CoV 273/2005",
+  "createdate": "2006/07/19",
+  "updatedate": "2006/07/19",
+  "slen": 29704
+ },
+ "67003761": {
+  "accession": "AY864805.1",
+  "title": "SARS coronavirus BJ162, complete genome",
+  "organism": "SARS coronavirus BJ162",
+  "createdate": "2006/06/08",
+  "updatedate": "2006/06/08",
+  "slen": 29751
+ },
+ "56462868": {
+  "accession": "AY686863.1",
+  "title": "SARS coronavirus A022, complete genome",
+  "organism": "SARS coronavirus A022",
+  "createdate": "2005/07/08",
+  "updatedate": "2006/07/21",
+  "slen": 29499
+ },
+ "52546959": {
+  "accession": "AY714217.1",
+  "title": "SARS Coronavirus CDC#200301157, complete genome",
+  "organism": "SARS Coronavirus CDC#200301157",
+  "createdate": "2004/09/28",
+  "updatedate": "2004/09/28",
+  "slen": 29727
+ },
+ "51475483": {
+  "accession": "AY572038.1",
+  "title": "SARS coronavirus civet020, complete genome",
+  "organism": "SARS coronavirus civet020",
+  "createdate": "2005/08/23",
+  "updatedate": "2005/12/01",
+  "slen": 29683
+ },
+ "51475465": {
+  "accession": "AY572035.1",
+  "title": "SARS coronavirus civet010, complete genome",
+  "organism": "SARS coronavirus civet010",
+  "createdate": "2005/08/23",
+  "updatedate": "2005/12/01",
+  "slen": 29518
+ },
+ "51475451": {
+  "accession": "AY572034.1",
+  "title": "SARS coronavirus civet007, complete genome",
+  "organism": "Civet SARS CoV 007/2004",
+  "createdate": "2005/08/23",
+  "updatedate": "2005/12/01",
+  "slen": 29540
+ },
+ "50365700": {
+  "accession": "AY654624.1",
+  "title": "SARS coronavirus TJF, complete genome",
+  "organism": "SARS coronavirus TJF",
+  "createdate": "2004/07/24",
+  "updatedate": "2005/03/07",
+  "slen": 29745
+ },
+ "41323719": {
+  "accession": "AY390556.1",
+  "title": "SARS coronavirus GZ02, complete genome",
+  "organism": "SARS coronavirus GZ02",
+  "createdate": "2004/01/31",
+  "updatedate": "2004/01/31",
+  "slen": 29760
+ },
+ "40795744": {
+  "accession": "AY508724.1",
+  "title": "SARS coronavirus NS-1, complete genome",
+  "organism": "SARS coronavirus NS-1",
+  "createdate": "2004/01/17",
+  "updatedate": "2004/01/17",
+  "slen": 29732
+ },
+ "40548981": {
+  "accession": "AY502932.1",
+  "title": "SARS coronavirus TW9, complete genome",
+  "organism": "SARS coronavirus TW9",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548969": {
+  "accession": "AY502931.1",
+  "title": "SARS coronavirus TW8, complete genome",
+  "organism": "SARS coronavirus TW8",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548957": {
+  "accession": "AY502930.1",
+  "title": "SARS coronavirus TW7, complete genome",
+  "organism": "SARS coronavirus TW7",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548945": {
+  "accession": "AY502929.1",
+  "title": "SARS coronavirus TW6, complete genome",
+  "organism": "SARS coronavirus TW6",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548933": {
+  "accession": "AY502928.1",
+  "title": "SARS coronavirus TW5, complete genome",
+  "organism": "SARS coronavirus TW5",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548921": {
+  "accession": "AY502927.1",
+  "title": "SARS coronavirus TW4, complete genome",
+  "organism": "SARS coronavirus TW4",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548909": {
+  "accession": "AY502926.1",
+  "title": "SARS coronavirus TW3, complete genome",
+  "organism": "SARS coronavirus TW3",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548897": {
+  "accession": "AY502925.1",
+  "title": "SARS coronavirus TW2, complete genome",
+  "organism": "SARS coronavirus TW2",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "40548885": {
+  "accession": "AY502924.1",
+  "title": "SARS coronavirus TW11, complete genome",
+  "organism": "SARS coronavirus TW11",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29727
+ },
+ "40548873": {
+  "accession": "AY502923.1",
+  "title": "SARS coronavirus TW10, complete genome",
+  "organism": "SARS coronavirus TW10",
+  "createdate": "2004/01/07",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "39980888": {
+  "accession": "AY286320.4",
+  "title": "SARS coronavirus ZJ01, partial genome",
+  "organism": "SARS coronavirus ZJ01",
+  "createdate": "2003/06/07",
+  "updatedate": "2004/02/09",
+  "slen": 26333
+ },
+ "38231937": {
+  "accession": "AY357076.1",
+  "title": "SARS coronavirus PUMC03, complete genome",
+  "organism": "SARS coronavirus PUMC03",
+  "createdate": "2003/11/17",
+  "updatedate": "2003/11/17",
+  "slen": 29745
+ },
+ "38231932": {
+  "accession": "AY357075.1",
+  "title": "SARS coronavirus PUMC02, complete genome",
+  "organism": "SARS coronavirus PUMC02",
+  "createdate": "2003/11/17",
+  "updatedate": "2003/11/17",
+  "slen": 29738
+ },
+ "38231927": {
+  "accession": "AY350750.1",
+  "title": "SARS coronavirus PUMC01, complete genome",
+  "organism": "SARS coronavirus PUMC01",
+  "createdate": "2003/11/17",
+  "updatedate": "2003/11/17",
+  "slen": 29738
+ },
+ "37576845": {
+  "accession": "AY427439.1",
+  "title": "SARS coronavirus AS, complete genome",
+  "organism": "SARS coronavirus AS",
+  "createdate": "2003/10/13",
+  "updatedate": "2003/10/21",
+  "slen": 29711
+ },
+ "33114214": {
+  "accession": "AY345988.1",
+  "title": "SARS coronavirus CUHK-AG03, complete genome",
+  "organism": "SARS coronavirus CUHK-AG03",
+  "createdate": "2003/11/29",
+  "updatedate": "2003/11/29",
+  "slen": 29736
+ },
+ "33114202": {
+  "accession": "AY345987.1",
+  "title": "SARS coronavirus CUHK-AG02, complete genome",
+  "organism": "SARS coronavirus CUHK-AG02",
+  "createdate": "2003/11/29",
+  "updatedate": "2003/11/29",
+  "slen": 29736
+ },
+ "33114190": {
+  "accession": "AY345986.1",
+  "title": "SARS coronavirus CUHK-AG01, complete genome",
+  "organism": "SARS coronavirus CUHK-AG01",
+  "createdate": "2003/11/29",
+  "updatedate": "2003/11/29",
+  "slen": 29736
+ },
+ "30027610": {
+  "accession": "AY278554.2",
+  "title": "SARS coronavirus CUHK-W1, complete genome",
+  "organism": "SARS coronavirus CUHK-W1",
+  "createdate": "2003/04/17",
+  "updatedate": "2003/07/31",
+  "slen": 29736
+ },
+ "194722775": {
+  "accession": "DL008547.1",
+  "title": "NOVEL STRAIN OF SARS-ASSOCIATED CORONAVIRUS AND APPLICATIONS THEREOF",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2008/07/30",
+  "updatedate": "2009/11/25",
+  "slen": 21221
+ },
+ "194722755": {
+  "accession": "DL008527.1",
+  "title": "NOVEL STRAIN OF SARS-ASSOCIATED CORONAVIRUS AND APPLICATIONS THEREOF",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2008/07/30",
+  "updatedate": "2009/11/25",
+  "slen": 29746
+ },
+ "165265264": {
+  "accession": "DJ059785.1",
+  "title": "NOVEL STRAIN OF SARS-ASSOCIATED CORONAVIRUS AND APPLICATIONS THEREOF",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2008/01/15",
+  "updatedate": "2009/11/25",
+  "slen": 21221
+ },
+ "165265176": {
+  "accession": "DJ059765.1",
+  "title": "NOVEL STRAIN OF SARS-ASSOCIATED CORONAVIRUS AND APPLICATIONS THEREOF",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2008/01/15",
+  "updatedate": "2009/11/25",
+  "slen": 29746
+ },
+ "158743919": {
+  "accession": "DJ045279.1",
+  "title": "IMAGEABLE ANIMAL MODEL OF SARS INFECTION",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2007/10/26",
+  "updatedate": "2009/11/25",
+  "slen": 29751
+ },
+ "74275570": {
+  "accession": "DQ182595.1",
+  "title": "SARS coronavirus ZJ0301 from China, complete genome",
+  "organism": "SARS coronavirus ZJ0301",
+  "createdate": "2005/09/13",
+  "updatedate": "2005/09/15",
+  "slen": 29706
+ },
+ "33115118": {
+  "accession": "AY323977.2",
+  "title": "SARS coronavirus HSR 1, complete genome",
+  "organism": "SARS coronavirus HSR 1",
+  "createdate": "2003/06/24",
+  "updatedate": "2004/03/18",
+  "slen": 29751
+ },
+ "30698326": {
+  "accession": "AY291451.1",
+  "title": "SARS coronavirus TW1, complete genome",
+  "organism": "SARS coronavirus TW1",
+  "createdate": "2003/05/14",
+  "updatedate": "2004/02/25",
+  "slen": 29729
+ },
+ "229595250": {
+  "accession": "FJ882963.1",
+  "title": "SARS coronavirus P2, complete genome",
+  "organism": "SARS coronavirus P2",
+  "createdate": "2009/05/12",
+  "updatedate": "2009/05/12",
+  "slen": 29682
+ },
+ "60267744": {
+  "accession": "AY772062.1",
+  "title": "SARS coronavirus WH20, complete genome",
+  "organism": "SARS coronavirus WH20",
+  "createdate": "2005/03/01",
+  "updatedate": "2009/03/25",
+  "slen": 29461
+ },
+ "172044030": {
+  "accession": "EU371564.1",
+  "title": "SARS coronavirus BJ182-12, complete genome",
+  "organism": "SARS coronavirus BJ182-12",
+  "createdate": "2009/01/06",
+  "updatedate": "2009/01/06",
+  "slen": 29512
+ },
+ "172044018": {
+  "accession": "EU371563.1",
+  "title": "SARS coronavirus BJ182-8, complete genome",
+  "organism": "SARS coronavirus BJ182-8",
+  "createdate": "2009/01/06",
+  "updatedate": "2009/01/06",
+  "slen": 29602
+ },
+ "172044006": {
+  "accession": "EU371562.1",
+  "title": "SARS coronavirus BJ182-4, complete genome",
+  "organism": "SARS coronavirus BJ182-4",
+  "createdate": "2009/01/06",
+  "updatedate": "2009/01/06",
+  "slen": 29602
+ },
+ "172043994": {
+  "accession": "EU371561.1",
+  "title": "SARS coronavirus BJ182b, complete genome",
+  "organism": "SARS coronavirus BJ182b",
+  "createdate": "2009/01/06",
+  "updatedate": "2009/01/06",
+  "slen": 29602
+ },
+ "172043981": {
+  "accession": "EU371560.1",
+  "title": "SARS coronavirus BJ182a, complete genome",
+  "organism": "SARS coronavirus BJ182a",
+  "createdate": "2009/01/06",
+  "updatedate": "2009/01/06",
+  "slen": 29731
+ },
+ "172043969": {
+  "accession": "EU371559.1",
+  "title": "SARS coronavirus ZJ02, complete genome",
+  "organism": "SARS coronavirus ZJ02",
+  "createdate": "2009/01/06",
+  "updatedate": "2009/01/06",
+  "slen": 29731
+ },
+ "218736520": {
+  "accession": "DL476508.1",
+  "title": "MODIFIED SMALL INTERFERING RNA MOLECULES AND METHODS OF USE",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2008/12/22",
+  "updatedate": "2008/12/22",
+  "slen": 29751
+ },
+ "166063552": {
+  "accession": "DJ066921.1",
+  "title": "A sensitive and specific test to detect SARS coronavirus",
+  "organism": "SARS coronavirus Urbani",
+  "createdate": "2008/01/23",
+  "updatedate": "2008/01/23",
+  "slen": 29727
+ },
+ "147804554": {
+  "accession": "CS569493.1",
+  "title": "Sequence 1 from Patent WO2006039656",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2007/05/18",
+  "updatedate": "2007/05/18",
+  "slen": 29751
+ },
+ "67003775": {
+  "accession": "AY864806.1",
+  "title": "SARS coronavirus BJ202, complete genome",
+  "organism": "SARS coronavirus BJ202",
+  "createdate": "2006/06/08",
+  "updatedate": "2006/09/14",
+  "slen": 29751
+ },
+ "85814711": {
+  "accession": "CS254197.1",
+  "title": "Sequence 67 from Patent WO2004011647",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2006/01/25",
+  "updatedate": "2006/07/17",
+  "slen": 29751
+ },
+ "108597802": {
+  "accession": "DQ640652.1",
+  "title": "SARS coronavirus GDH-BJH01, complete genome",
+  "organism": "SARS coronavirus GDH-BJH01",
+  "createdate": "2006/06/12",
+  "updatedate": "2006/06/12",
+  "slen": 29746
+ },
+ "33411459": {
+  "accession": "AP006561.1",
+  "title": "SARS coronavirus TWY genomic RNA, complete genome",
+  "organism": "SARS coronavirus TWY",
+  "createdate": "2003/08/02",
+  "updatedate": "2006/05/17",
+  "slen": 29727
+ },
+ "33411444": {
+  "accession": "AP006560.1",
+  "title": "SARS coronavirus TWS genomic RNA, complete genome",
+  "organism": "SARS coronavirus TWS",
+  "createdate": "2003/08/02",
+  "updatedate": "2006/05/17",
+  "slen": 29727
+ },
+ "33411429": {
+  "accession": "AP006559.1",
+  "title": "SARS coronavirus TWK genomic RNA, complete genome",
+  "organism": "SARS coronavirus TWK",
+  "createdate": "2003/08/02",
+  "updatedate": "2006/05/17",
+  "slen": 29727
+ },
+ "33411414": {
+  "accession": "AP006558.1",
+  "title": "SARS coronavirus TWJ genomic RNA, complete genome",
+  "organism": "SARS coronavirus TWJ",
+  "createdate": "2003/08/02",
+  "updatedate": "2006/05/17",
+  "slen": 29725
+ },
+ "33411399": {
+  "accession": "AP006557.1",
+  "title": "SARS coronavirus TWH genomic RNA, complete genome",
+  "organism": "SARS coronavirus TWH",
+  "createdate": "2003/08/02",
+  "updatedate": "2006/05/17",
+  "slen": 29727
+ },
+ "92698732": {
+  "accession": "AB257344.1",
+  "title": "SARS coronavirus Frankfurt 1 genomic RNA, nearly complete genome, clone: persistent virus #21",
+  "organism": "SARS coronavirus Frankfurt 1",
+  "createdate": "2006/04/19",
+  "updatedate": "2006/04/19",
+  "slen": 29632
+ },
+ "40795428": {
+  "accession": "AY394850.2",
+  "title": "SARS coronavirus WHU, complete genome",
+  "organism": "SARS coronavirus WHU",
+  "createdate": "2003/09/30",
+  "updatedate": "2005/05/10",
+  "slen": 29728
+ },
+ "63093520": {
+  "accession": "CS079029.1",
+  "title": "Sequence 17 from Patent WO2005035556",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2005/05/06",
+  "updatedate": "2005/05/06",
+  "slen": 29736
+ },
+ "63093519": {
+  "accession": "CS079028.1",
+  "title": "Sequence 16 from Patent WO2005035556",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2005/05/06",
+  "updatedate": "2005/05/06",
+  "slen": 29742
+ },
+ "63093518": {
+  "accession": "CS079027.1",
+  "title": "Sequence 15 from Patent WO2005035556",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2005/05/06",
+  "updatedate": "2005/05/06",
+  "slen": 29727
+ },
+ "63093517": {
+  "accession": "CS079026.1",
+  "title": "Sequence 14 from Patent WO2005035556",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2005/05/06",
+  "updatedate": "2005/05/06",
+  "slen": 29751
+ },
+ "42563758": {
+  "accession": "AY545919.1",
+  "title": "SARS coronavirus isolate CFB/SZ/94/03, complete genome",
+  "organism": "Severe acute respiratory syndrome coronavirus",
+  "createdate": "2005/03/01",
+  "updatedate": "2005/03/01",
+  "slen": 29739
+ },
+ "42563755": {
+  "accession": "AY545918.1",
+  "title": "SARS coronavirus isolate HC/GZ/32/03, complete genome",
+  "organism": "Severe acute respiratory syndrome coronavirus",
+  "createdate": "2005/03/01",
+  "updatedate": "2005/03/01",
+  "slen": 29737
+ },
+ "42563753": {
+  "accession": "AY545917.1",
+  "title": "SARS coronavirus isolate HC/GZ/81/03, complete genome",
+  "organism": "Severe acute respiratory syndrome coronavirus",
+  "createdate": "2005/03/01",
+  "updatedate": "2005/03/01",
+  "slen": 29739
+ },
+ "42563752": {
+  "accession": "AY545916.1",
+  "title": "SARS coronavirus isolate HC/SZ/266/03, complete genome",
+  "organism": "Severe acute respiratory syndrome coronavirus",
+  "createdate": "2005/03/01",
+  "updatedate": "2005/03/01",
+  "slen": 29721
+ },
+ "42563750": {
+  "accession": "AY545915.1",
+  "title": "SARS coronavirus isolate HC/SZ/DM1/03, complete genome",
+  "organism": "Severe acute respiratory syndrome coronavirus",
+  "createdate": "2005/03/01",
+  "updatedate": "2005/03/01",
+  "slen": 29714
+ },
+ "42563748": {
+  "accession": "AY545914.1",
+  "title": "SARS coronavirus isolate HC/SZ/79/03, complete genome",
+  "organism": "Severe acute respiratory syndrome coronavirus",
+  "createdate": "2005/03/01",
+  "updatedate": "2005/03/01",
+  "slen": 29723
+ },
+ "53854521": {
+  "accession": "AY613950.1",
+  "title": "SARS coronavirus PC4-227, complete genome",
+  "organism": "SARS coronavirus PC4-227",
+  "createdate": "2005/01/28",
+  "updatedate": "2005/02/28",
+  "slen": 29728
+ },
+ "53854520": {
+  "accession": "AY613949.1",
+  "title": "SARS coronavirus PC4-136, complete genome",
+  "organism": "SARS coronavirus PC4-136",
+  "createdate": "2005/01/28",
+  "updatedate": "2005/02/28",
+  "slen": 29730
+ },
+ "53854519": {
+  "accession": "AY613948.1",
+  "title": "SARS coronavirus PC4-13, complete genome",
+  "organism": "SARS coronavirus PC4-13",
+  "createdate": "2005/01/28",
+  "updatedate": "2005/02/28",
+  "slen": 29730
+ },
+ "53854518": {
+  "accession": "AY613947.1",
+  "title": "SARS coronavirus GZ0402, complete genome",
+  "organism": "SARS coronavirus GZ0402",
+  "createdate": "2005/01/28",
+  "updatedate": "2005/02/28",
+  "slen": 29730
+ },
+ "49036420": {
+  "accession": "AY568539.1",
+  "title": "SARS coronavirus GZ0401, complete genome",
+  "organism": "SARS coronavirus GZ0401",
+  "createdate": "2005/02/28",
+  "updatedate": "2005/02/28",
+  "slen": 29730
+ },
+ "42556132": {
+  "accession": "AY515512.1",
+  "title": "SARS coronavirus HC/SZ/61/03, complete genome",
+  "organism": "SARS coronavirus HC/SZ/61/03",
+  "createdate": "2005/01/01",
+  "updatedate": "2005/01/01",
+  "slen": 29731
+ },
+ "56208614": {
+  "accession": "CQ918598.1",
+  "title": "Sequence 15 from Patent WO2004096842",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2004/11/23",
+  "updatedate": "2004/11/23",
+  "slen": 29751
+ },
+ "56208602": {
+  "accession": "CQ918585.1",
+  "title": "Sequence 2 from Patent WO2004096842",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2004/11/23",
+  "updatedate": "2004/11/23",
+  "slen": 29736
+ },
+ "56208601": {
+  "accession": "CQ918584.1",
+  "title": "Sequence 1 from Patent WO2004096842",
+  "organism": "Severe acute respiratory syndrome-related coronavirus",
+  "createdate": "2004/11/23",
+  "updatedate": "2004/11/23",
+  "slen": 29736
+ },
+ "45645024": {
+  "accession": "AY559097.1",
+  "title": "SARS coronavirus Sin3408L, complete genome",
+  "organism": "SARS coronavirus Sin3408L",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29715
+ },
+ "45645023": {
+  "accession": "AY559096.1",
+  "title": "SARS coronavirus Sin850, complete genome",
+  "organism": "SARS coronavirus Sin850",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29720
+ },
+ "45645022": {
+  "accession": "AY559095.1",
+  "title": "SARS coronavirus Sin847, complete genome",
+  "organism": "SARS coronavirus Sin847",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29719
+ },
+ "45645021": {
+  "accession": "AY559094.1",
+  "title": "SARS coronavirus Sin846, complete genome",
+  "organism": "SARS coronavirus Sin846",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29577
+ },
+ "45645019": {
+  "accession": "AY559093.1",
+  "title": "SARS coronavirus Sin845, complete genome",
+  "organism": "SARS coronavirus Sin845",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29712
+ },
+ "45645017": {
+  "accession": "AY559092.1",
+  "title": "SARS coronavirus SinP5, complete genome",
+  "organism": "SARS coronavirus SinP5",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29713
+ },
+ "45645016": {
+  "accession": "AY559091.1",
+  "title": "SARS coronavirus SinP4, complete genome",
+  "organism": "SARS coronavirus SinP4",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29710
+ },
+ "45645013": {
+  "accession": "AY559090.1",
+  "title": "SARS coronavirus SinP3, complete genome",
+  "organism": "SARS coronavirus SinP3",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29725
+ },
+ "45645010": {
+  "accession": "AY559089.1",
+  "title": "SARS coronavirus SinP2, complete genome",
+  "organism": "SARS coronavirus SinP2",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29717
+ },
+ "45645007": {
+  "accession": "AY559088.1",
+  "title": "SARS coronavirus SinP1, complete genome",
+  "organism": "SARS coronavirus SinP1",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29714
+ },
+ "45645004": {
+  "accession": "AY559087.1",
+  "title": "SARS coronavirus Sin3725V, complete genome",
+  "organism": "SARS coronavirus Sin3725V",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29716
+ },
+ "45645003": {
+  "accession": "AY559086.1",
+  "title": "SARS coronavirus Sin849, complete genome",
+  "organism": "SARS coronavirus Sin849",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29661
+ },
+ "45645001": {
+  "accession": "AY559085.1",
+  "title": "SARS coronavirus Sin848, complete genome",
+  "organism": "SARS coronavirus Sin848",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29713
+ },
+ "45645000": {
+  "accession": "AY559084.1",
+  "title": "SARS coronavirus Sin3765V, complete genome",
+  "organism": "SARS coronavirus Sin3765V",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29722
+ },
+ "45644998": {
+  "accession": "AY559083.1",
+  "title": "SARS coronavirus Sin3408, complete genome",
+  "organism": "SARS coronavirus Sin3408",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29767
+ },
+ "45644996": {
+  "accession": "AY559082.1",
+  "title": "SARS coronavirus Sin852, complete genome",
+  "organism": "SARS coronavirus Sin852",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29670
+ },
+ "45644994": {
+  "accession": "AY559081.1",
+  "title": "SARS coronavirus Sin842, complete genome",
+  "organism": "SARS coronavirus Sin842",
+  "createdate": "2004/03/28",
+  "updatedate": "2004/09/24",
+  "slen": 29716
+ },
+ "37624347": {
+  "accession": "AY395004.1",
+  "title": "SARS coronavirus HZS2-Bb, partial genome",
+  "organism": "SARS coronavirus HZS2-Bb",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29620
+ },
+ "37624346": {
+  "accession": "AY395003.1",
+  "title": "SARS coronavirus ZS-C, complete genome",
+  "organism": "SARS coronavirus ZS-C",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29647
+ },
+ "37624345": {
+  "accession": "AY395002.1",
+  "title": "SARS coronavirus LC5, complete genome",
+  "organism": "SARS coronavirus LC5",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29350
+ },
+ "37624344": {
+  "accession": "AY395001.1",
+  "title": "SARS coronavirus LC4, complete genome",
+  "organism": "SARS coronavirus LC4",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29350
+ },
+ "37624343": {
+  "accession": "AY395000.1",
+  "title": "SARS coronavirus LC3, complete genome",
+  "organism": "SARS coronavirus LC3",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29350
+ },
+ "37624342": {
+  "accession": "AY394999.1",
+  "title": "SARS coronavirus LC2, complete genome",
+  "organism": "SARS coronavirus LC2",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29350
+ },
+ "37624341": {
+  "accession": "AY394998.1",
+  "title": "SARS coronavirus LC1, complete genome",
+  "organism": "SARS coronavirus LC1",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29736
+ },
+ "37624340": {
+  "accession": "AY394997.1",
+  "title": "SARS coronavirus ZS-A, complete genome",
+  "organism": "SARS coronavirus ZS-A",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29683
+ },
+ "37624339": {
+  "accession": "AY394996.1",
+  "title": "SARS coronavirus ZS-B, complete genome",
+  "organism": "SARS coronavirus ZS-B",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29683
+ },
+ "37624338": {
+  "accession": "AY394995.1",
+  "title": "SARS coronavirus HSZ-Cc, complete genome",
+  "organism": "SARS coronavirus HSZ-Cc",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29765
+ },
+ "37624337": {
+  "accession": "AY394994.1",
+  "title": "SARS coronavirus HSZ-Bc, complete genome",
+  "organism": "SARS coronavirus HSZ-Bc",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29765
+ },
+ "37624336": {
+  "accession": "AY394993.1",
+  "title": "SARS coronavirus HGZ8L2, complete genome",
+  "organism": "SARS coronavirus HGZ8L2",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29736
+ },
+ "37624335": {
+  "accession": "AY394992.1",
+  "title": "SARS coronavirus HZS2-C, complete genome",
+  "organism": "SARS coronavirus HZS2-C",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29736
+ },
+ "37624334": {
+  "accession": "AY394991.1",
+  "title": "SARS coronavirus HZS2-Fc, complete genome",
+  "organism": "SARS coronavirus HZS2-Fc",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29736
+ },
+ "37624333": {
+  "accession": "AY394990.1",
+  "title": "SARS coronavirus HZS2-E, complete genome",
+  "organism": "SARS coronavirus HZS2-E",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29736
+ },
+ "37624332": {
+  "accession": "AY394989.1",
+  "title": "SARS coronavirus HZS2-D, complete genome",
+  "organism": "SARS coronavirus HZS2-D",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29736
+ },
+ "37624331": {
+  "accession": "AY394988.1",
+  "title": "SARS coronavirus JMD, partial genome",
+  "organism": "SARS coronavirus JMD",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29665
+ },
+ "37624330": {
+  "accession": "AY394987.1",
+  "title": "SARS coronavirus HZS2-Fb, complete genome",
+  "organism": "SARS coronavirus HZS2-Fb",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29709
+ },
+ "37624329": {
+  "accession": "AY394986.1",
+  "title": "SARS coronavirus HSZ-Cb, complete genome",
+  "organism": "SARS coronavirus HSZ-Cb",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29729
+ },
+ "37624328": {
+  "accession": "AY394985.1",
+  "title": "SARS coronavirus HSZ-Bb, complete genome",
+  "organism": "SARS coronavirus HSZ-Bb",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29530
+ },
+ "37624327": {
+  "accession": "AY394984.1",
+  "title": "SARS coronavirus HSZ-A, partial genome",
+  "organism": "SARS coronavirus HSZ-A",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29733
+ },
+ "37624326": {
+  "accession": "AY394983.1",
+  "title": "SARS coronavirus HSZ2-A, complete genome",
+  "organism": "SARS coronavirus HSZ2-A",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29699
+ },
+ "37624325": {
+  "accession": "AY394982.1",
+  "title": "SARS coronavirus HGZ8L1-B, partial genome",
+  "organism": "SARS coronavirus HGZ8L1-B",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29646
+ },
+ "37624324": {
+  "accession": "AY394981.1",
+  "title": "SARS coronavirus HGZ8L1-A, partial genome",
+  "organism": "SARS coronavirus HGZ8L1-A",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29726
+ },
+ "37624323": {
+  "accession": "AY394980.1",
+  "title": "SARS coronavirus GZ-D, partial genome",
+  "organism": "SARS coronavirus GZ-D",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29705
+ },
+ "37624322": {
+  "accession": "AY394979.1",
+  "title": "SARS coronavirus GZ-C, complete genome",
+  "organism": "SARS coronavirus GZ-C",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29645
+ },
+ "37624321": {
+  "accession": "AY394978.1",
+  "title": "SARS coronavirus GZ-B, complete genome",
+  "organism": "SARS coronavirus GZ-B",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29640
+ },
+ "37624320": {
+  "accession": "AY394977.1",
+  "title": "SARS coronavirus GZ-A, partial genome",
+  "organism": "SARS coronavirus GZ-A",
+  "createdate": "2004/01/29",
+  "updatedate": "2004/01/29",
+  "slen": 29433
+ },
+ "38385714": {
+  "accession": "AY461660.1",
+  "title": "SARS coronavirus SoD, complete genome",
+  "organism": "SARS coronavirus SoD",
+  "createdate": "2003/11/23",
+  "updatedate": "2003/11/23",
+  "slen": 29715
+ },
+ "34482146": {
+  "accession": "AY304495.1",
+  "title": "SARS coronavirus GZ50, complete genome",
+  "organism": "SARS coronavirus GZ50",
+  "createdate": "2003/09/05",
+  "updatedate": "2003/11/05",
+  "slen": 29720
+ },
+ "30023963": {
+  "accession": "AY278491.2",
+  "title": "SARS coronavirus HKU-39849, complete genome",
+  "organism": "SARS coronavirus HKU-39849",
+  "createdate": "2003/04/18",
+  "updatedate": "2003/08/29",
+  "slen": 29742
+ },
+ "33518725": {
+  "accession": "AY362699.1",
+  "title": "SARS coronavirus TWC3, complete genome",
+  "organism": "SARS coronavirus TWC3",
+  "createdate": "2003/08/13",
+  "updatedate": "2003/08/13",
+  "slen": 29727
+ },
+ "33518724": {
+  "accession": "AY362698.1",
+  "title": "SARS coronavirus TWC2, complete genome",
+  "organism": "SARS coronavirus TWC2",
+  "createdate": "2003/08/13",
+  "updatedate": "2003/08/13",
+  "slen": 29727
+ },
+ "33304219": {
+  "accession": "AY351680.1",
+  "title": "SARS coronavirus ZMY 1, complete genome",
+  "organism": "SARS coronavirus ZMY 1",
+  "createdate": "2003/08/03",
+  "updatedate": "2003/08/03",
+  "slen": 29749
+ },
+ "31873092": {
+  "accession": "AY321118.1",
+  "title": "SARS coronavirus TWC, complete genome",
+  "organism": "SARS coronavirus TWC",
+  "createdate": "2003/06/17",
+  "updatedate": "2003/06/26",
+  "slen": 29725
+ },
+ "30910859": {
+  "accession": "AY297028.1",
+  "title": "SARS coronavirus ZJ01, complete genome",
+  "organism": "SARS coronavirus ZJ01",
+  "createdate": "2003/05/19",
+  "updatedate": "2003/05/19",
+  "slen": 29715
+ }
+}

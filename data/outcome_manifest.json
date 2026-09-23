@@ -1,0 +1,11 @@
+{
+ "data/outcome/constellation_Delta.json": "6973ec8294fd62a1a1d150c16bfac85f75144e8ddca073131650b796381590de",
+ "data/outcome/constellation_Alpha.json": "57fe67f2305dca27ffd2bea736b0ab6288753f6b4a34f717f5532bb252f6ed53",
+ "data/outcome/constellation_Omicron_BA1.json": "64b30ef61f1ed2e57e9ae071ec58e797dd64b0f27e77d591a20423691d2d9a13",
+ "data/outcome/constellation_Gamma.json": "7c05bfa1bec051b13493384720e3991f21c5c723ed84c887884d6cb8560f3b9f",
+ "data/outcome/constellation_Beta.json": "89f8eceb138350acababfa21d2920c79d6609028856a61ef3f7d8a70c08d7304",
+ "data/outcome/nextstrain_h3n2_ha_12y.json": "28afcddffc8b551a2052b1012aece296e169eb385818a62a862ef2ae8002effc",
+ "data/outcome/nextstrain_h3n2_tip_frequencies.json": "f013863e7f5d5fabc8b900671c6d3f243d92990ac4bda31abf4003c60d1502f0",
+ "data/outcome/sars2_ref_NC_045512.gb": "87744b176aa9ce71350c8becf0d062950dbc485a59766fcfe723ec859f6b6d5c",
+ "data/outcome/constellation_Omicron_BA2.json": "9a305ead0cda06f4b532134eb297d4d3f690c6f382bf23a89609378a0b88867f"
+}

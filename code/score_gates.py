@@ -98,6 +98,13 @@ strain_freqs = {}
 for k, v in freqs_raw.items():
     if isinstance(v, dict) and "frequencies" in v:
         strain_freqs[k] = v["frequencies"]
+NP = len(pivots)
+def freqvec(t):
+    a = strain_freqs.get(t)
+    if a is None: return None
+    v = np.array(a[:NP], dtype=float)
+    if len(v) < NP: v = np.pad(v, (0, NP - len(v)))
+    return v
 print("freq strains:", len(strain_freqs), "pivots:", len(pivots) if pivots else None)
 
 nodes = []
@@ -123,13 +130,11 @@ for n in nodes:
     muts = (n.get("branch_attrs", {}).get("mutations", {}) or {}).get("HA1", [])
     if not muts or date is None or not (2010.0 <= date < 2020.0): continue
     if not n["_tips"]: continue
-    fr = np.zeros(len(pivots))
+    fr = np.zeros(NP)
     for t in n["_tips"]:
-        f = strain_freqs.get(t)
-        if not f: continue
-        for i, pv in enumerate(pivots):
-            fr[i] += f.get(str(pv), f.get(pv, 0.0)) if isinstance(list(f.keys())[0], str) else 0.0
-    mx = fr[pivot_idx].max() if len(pivot_idx) else 0.0
+        v = freqvec(t)
+        if v is not None: fr += v
+    mx = fr.max() if NP else 0.0
     for mut in muts:
         m = re.match(r"[A-Z](\d+)[A-Z]", mut)
         if m:

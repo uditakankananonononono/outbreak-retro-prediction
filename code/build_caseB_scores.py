@@ -22,15 +22,16 @@ def get(url, tries=4):
 
 # --- A/Aichi/2/1968 HA (numbering reference, 1968 = predictor-side) ---
 q = ("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nuccore&retmode=json&retmax=5&term="
-     "Influenza%20A%20virus%5BOrganism%5D%20AND%20Aichi%2F2%2F1968%5BAll%20Fields%5D%20AND%20%22segment%204%22%5BAll%20Fields%5D")
+     "Influenza%20A%20virus%5BOrganism%5D%20AND%20%22A%2FAichi%2F2%2F1968%22%5BAll%20Fields%5D%20AND%20hemagglutinin%5BAll%20Fields%5D%20AND%201600%3A1800%5BSLEN%5D")
 ids = json.loads(get(q))["esearchresult"]["idlist"]
 fa = get(f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id={ids[0]}&rettype=fasta_cds_aa&retmode=text").decode()
 open(f"{OUT}/aichi68_ha.fasta", "w").write(fa)
 ref_rec = next(SeqIO.parse(f"{OUT}/aichi68_ha.fasta", "fasta"))
 aichi_full = str(ref_rec.seq)
 # mature numbering: strip 16-aa signal peptide; HA1 then starts with QDLP...
-idx = aichi_full.find("QDLPGNDNSTAT")
-assert idx > 0, "signal peptide cleavage not found"
+gi = aichi_full.find("GNDNSTAT")
+assert gi > 3, "signal peptide cleavage not found"
+idx = gi - 4
 aichi_mature = aichi_full[idx:]  # position 1 = Q (H3 mature numbering)
 print("Aichi68 HA mature start at offset", idx, "len", len(aichi_mature))
 
@@ -65,7 +66,7 @@ with open("work/caseB_ha.fasta", "w") as fh:
     fh.write(">AICHI68_ref\n" + aichi_mature + "\n")
     for acc in sub:
         fh.write(f">{acc}\n{kept_orf[acc]}\n")
-subprocess.run(["/home/sandbox/bin/muscle", "-align", "work/caseB_ha.fasta",
+subprocess.run(["/home/sandbox/bin/muscle", "-super5", "work/caseB_ha.fasta",
                 "-output", "work/caseB_ha_msa.fasta", "-threads", "2"], check=True)
 msa = list(SeqIO.parse("work/caseB_ha_msa.fasta", "fasta"))
 ref = next(r for r in msa if r.id == "AICHI68_ref")
@@ -118,12 +119,12 @@ for ch in model:
     m = {}
     rb, tb = aln.aligned[0], aln.aligned[1]
     for (rs, re_), (ts, te) in zip(rb, tb):
-        for k in range(re_ - rs): m[resids[ts + k]] = rs + k + 1
+        for k in range(re_ - rs): m[int(resids[ts + k])] = int(rs + k + 1)
     if best is None or len(m) > len(best[0]): best = (m, ch.id)
 mapS, chS = best
 print(pdb, "chain", chS, "mapped HA1 residues:", len(mapS))
 hse_dict = {(r.get_parent().id, r.id[1]): r.xtra.get("EXP_HSE_B_U") for r in model.get_residues()}
-s2 = {pos: float(hse_dict.get((chS, resid))) for resid, pos in mapS.items()
+s2 = {int(pos): float(hse_dict.get((chS, resid))) for resid, pos in mapS.items()
       if pos <= HA1_END and hse_dict.get((chS, resid)) is not None}
 
 # s3: distance to RBS footprint (pre-2010 literature: 98,153,183,190,194,195,226,228)
@@ -139,7 +140,7 @@ for pos, resid in mapS.items():
     if pos > HA1_END: continue
     try: ca = model[chS][resid]["CA"].coord
     except KeyError: continue
-    s3[pos] = -min(float(np.linalg.norm(ca - fc)) for fc in foot_coords)
+    s3[int(pos)] = -min(float(np.linalg.norm(ca - fc)) for fc in foot_coords)
 
 # s4: epitope membership, Wilson & Cox 1990 ranges (pre-2010), H3 numbering
 EPIT = {"A": [(121,147)], "B": [(155,160),(186,198)], "C": [(44,54),(273,278)],

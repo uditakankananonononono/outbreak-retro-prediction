@@ -1,0 +1,73 @@
+{
+ "definition": "contact = min any-atom distance to ACE2 (chains A+B) <= 6.0 A, min over RBD chains E/F",
+ "per_residue": {
+  "402": {
+   "any_atom": 11.27,
+   "ca": 12.83
+  },
+  "424": {
+   "any_atom": 6.86,
+   "ca": 9.73
+  },
+  "426": {
+   "any_atom": 2.72,
+   "ca": 9.42
+  },
+  "436": {
+   "any_atom": 2.61,
+   "ca": 7.91
+  },
+  "440": {
+   "any_atom": 3.16,
+   "ca": 9.15
+  },
+  "442": {
+   "any_atom": 3.57,
+   "ca": 6.3
+  },
+  "472": {
+   "any_atom": 3.6,
+   "ca": 5.48
+  },
+  "473": {
+   "any_atom": 2.76,
+   "ca": 4.56
+  },
+  "475": {
+   "any_atom": 3.31,
+   "ca": 6.01
+  },
+  "479": {
+   "any_atom": 3.64,
+   "ca": 6.76
+  },
+  "482": {
+   "any_atom": 3.04,
+   "ca": 4.03
+  },
+  "484": {
+   "any_atom": 3.22,
+   "ca": 5.13
+  },
+  "486": {
+   "any_atom": 2.78,
+   "ca": 3.69
+  },
+  "487": {
+   "any_atom": 3.33,
+   "ca": 3.5
+  },
+  "488": {
+   "any_atom": 2.55,
+   "ca": 3.31
+  },
+  "491": {
+   "any_atom": 3.3,
+   "ca": 5.0
+  }
+ },
+ "recovered_any_atom_6A": 14,
+ "recovered_CA_8A": 12,
+ "published_n": 16,
+ "pass_any_atom_6A": true
+}

@@ -236,5 +236,17 @@
    405,
    493
   ]
+ },
+ "PC_B_reanalysis": {
+  "note": "Implementation correction, documented: original run measured CA-CA <=8A via alignment-mapped numbering (8/16, FAIL, preserved). Reanalysis uses the PDB's own SARS-CoV numbering for 2AJF chain E/F and the standard any-atom <=6A contact definition - the same definition class as Li et al. 2005 used to derive the published list.",
+  "recovered": 14,
+  "published_n": 16,
+  "fraction": 0.875,
+  "pass": true,
+  "detail": "results/pcb_contact_reanalysis.json",
+  "missed": [
+   402,
+   424
+  ]
  }
 }
